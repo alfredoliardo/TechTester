@@ -1,0 +1,4022 @@
+[
+    {
+        "bank":  "01",
+        "ou":  "71088",
+        "info":  "VIA BISCEGLIE, 120-MILANO"
+    },
+    {
+        "bank":  "01",
+        "ou":  "71216",
+        "info":  "VIA DON LUIGI PALAZZOLO,  71-BERGAMO"
+    },
+    {
+        "bank":  "01",
+        "ou":  "03711",
+        "info":  "VIA L.LUCIANI, 12-ROMA - Tel. 0632696811"
+    },
+    {
+        "bank":  "01",
+        "ou":  "77835",
+        "info":  "VIA GRANDI, 74-ANCONA - Tel."
+    },
+    {
+        "bank":  "99",
+        "ou":  "99999",
+        "info":  "null"
+    },
+    {
+        "bank":  "01",
+        "ou":  "77786",
+        "info":  "VIA VIGNOLI, SNC-PIEVE TORINA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77799",
+        "info":  "VIA MARCONE-RIPA TEATINA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77692",
+        "info":  "VIA GUERRASIO, 42-CASTEL SAN GIORGIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77780",
+        "info":  "VIA MORO, 25 C/O OSP.URBANI-JESI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77903",
+        "info":  "CORSO GUGLIELMO MARCONI, 14-SANFRONT - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77963",
+        "info":  "VIA ANTONIO GRAMSCI, 25-FIESSE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77576",
+        "info":  "PIAZZA DEGLI ALPINI, 4/8-ANGOLO TERME - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78092",
+        "info":  "VIALE GORIZIA, 26/34-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77273",
+        "info":  "VIALE DEI MILLE, 1/A-REGGIO NELL\u0027EMILIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78071",
+        "info":  "VIA DIAZ, 6-RAPALLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78113",
+        "info":  "VIALE NETTUNO, 100-FRANCAVILLA AL MARE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78081",
+        "info":  "CORSO VITTORIO EMANUELE, 25/27-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78112",
+        "info":  "VIA BUOZZI, 22-CITTA\u0027 DI CASTELLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78053",
+        "info":  "CORSO SEMPIONE, 221-LEGNANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77444",
+        "info":  "VIA GIOVANNI XXIII, 3-CIVIDATE AL PIANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77864",
+        "info":  "VIA REPUBBLICA, 29-BOLOGNA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77176",
+        "info":  "VIA ROMA, 5-CHIUSA DI PESIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78033",
+        "info":  "VIA COLOMBO SNC-FOLLONICA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77615",
+        "info":  "VIA GABRIELLI, 99/B-SAN BENEDETTO DEL TRONTO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77520",
+        "info":  "VIA A. ZANABONI, 2-ISORELLA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78134",
+        "info":  "VIA G. TOMA, 30-TRICASE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78077",
+        "info":  "VIA CASIRAGHI, 167/173-SESTO SAN GIOVANNI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78124",
+        "info":  "VIA A. DE GASPERI, 52-SERRA SAN BRUNO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78117",
+        "info":  "VIA CAMPANIA, 69-VENAFRO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78131",
+        "info":  "VIA ALIANELLI, 2-POTENZA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78128",
+        "info":  "VIA G. D\u0027ANNUNZIO, 34-MARTINA FRANCA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78111",
+        "info":  "VIA DANTE ALIGHIERI,  20-24-AVELLINO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78130",
+        "info":  "VIA NAZIONALE-PIZZO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78127",
+        "info":  "VIA FLEMING 9/11/13-CASTELLANETA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78133",
+        "info":  "CORSO ROMA, 20-22-24-MANFREDONIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78125",
+        "info":  "PIAZZA RISORGIMENTO-PONTECAGNANO FAIANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77527",
+        "info":  "VIA XX SETTEMBRE, 83-SABBIO CHIESE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78031",
+        "info":  "VIA DEI VESTINI-CHIETI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77525",
+        "info":  "VIA ROMA, 60-REMEDELLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77379",
+        "info":  "VIA GARIBALDI, 7-CISERANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78052",
+        "info":  "CORSO MAGENTA, 127-LEGNANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77567",
+        "info":  "VIA STATALE, 77-DONGO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78058",
+        "info":  "VIALE LOMBARDIA, 12/14-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77581",
+        "info":  "VIA ROMA, 1-CORTENO GOLGI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78037",
+        "info":  "PIAZZA M.RI DELLA LIBERTA\u0027, 1-CHIETI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78039",
+        "info":  "VIA COLONNETTA, 24-CHIETI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78049",
+        "info":  "CORSO ANTONIO GRAMSCI, 1-CUNEO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78056",
+        "info":  "PIAZZA FIRENZE, 14-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77603",
+        "info":  "VIA XVIII SETTEMBRE, 12-CASTELFIDARDO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78089",
+        "info":  "PIAZZA GIUSEPPE CAMBIAGHI, 1-MONZA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77584",
+        "info":  "VIA XI FEBBRAIO, 1-PIANCOGNO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78101",
+        "info":  "PIAZZA VITTORIO EMANUELE II 18-ORZINUOVI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77582",
+        "info":  "PIAZZA GIUSEPPE GARIBALDI, 4/6-ESINE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78063",
+        "info":  "VIA SOLARI, 19-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78103",
+        "info":  "LARGO COLLI ALBANI, 28-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77578",
+        "info":  "PIAZZA LIBERAZIONE, 2-BIENNO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77830",
+        "info":  "VIA MANTOVA, 137-CREMONA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77299",
+        "info":  "VIA TOSI, 13-ROVETTA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77612",
+        "info":  "VIA BRAMANTE, 48-LORETO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77416",
+        "info":  "VIA MARCONI, 14-GAZZANIGA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77215",
+        "info":  "CORSO ROMA, 41/43-MONLEALE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77686",
+        "info":  "VIA NAZIONALE JONICA, 113-114-MONASTERACE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77326",
+        "info":  "VIA PORRO, 46-INDUNO OLONA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77965",
+        "info":  "PIAZZALE AI CADUTI, 3-AMPEZZO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77968",
+        "info":  "VIA MARCONI, 12-QUISTELLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77282",
+        "info":  "VIA LEGA LOMBARDA, 161-PONTIDA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77463",
+        "info":  "VIA ALCIDE  DE GASPERI, 48-CASTELCOVATI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77568",
+        "info":  "PIAZZA REPUBBLICA, 25/26-TORBOLE CASAGLIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77570",
+        "info":  "LOC. BADETTO, 23-CETO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77571",
+        "info":  "VIA ROMA, 12-PROVAGLIO D\u0027ISEO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77307",
+        "info":  "VIA CONCORDIA, 22-MEZZAGO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77294",
+        "info":  "VIA XXV APRILE, 29-OSIO SOPRA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77675",
+        "info":  "STRADA PROV. VARIANTE, 4-TORANO CASTELLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77561",
+        "info":  "VIA ANTONIO  GRAMSCI, 28-BOLSENA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77298",
+        "info":  "VIA LUCIANO MANARA, 4-LURAGO D\u0027ERBA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77960",
+        "info":  "VIALE EUROPA, 30-MONTEFORTE D\u0027ALPONE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77959",
+        "info":  "PIAZZA ITALIA, 26-MAJANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77967",
+        "info":  "VIA BISSOLATI, 57-BRESCIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77340",
+        "info":  "PIAZZA EUROPA, 2-RANICA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77317",
+        "info":  "VIA S.ROCCO, 45-VERTOVA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77564",
+        "info":  "VIA GUGLIELMO  MARCONI, 84-CAPODIMONTE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77558",
+        "info":  "VIA PORTUENSE, 718-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77684",
+        "info":  "VIA NAZIONALE, 53-MARSICOVETERE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77119",
+        "info":  "VIA XXIV MAGGIO N. 75/83-GROSSETO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77667",
+        "info":  "VIALE DELLA RESISTENZA,3-BUONALBERGO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77693",
+        "info":  "PIAZZA ZANARDELLI, 1-ROCCAPIEMONTE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77614",
+        "info":  "VIA URBINO, 2-MONTE URANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77272",
+        "info":  "CORSO STRADA NUOVA, 61/C-PAVIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77555",
+        "info":  "VIA C. CAVOUR, 29 - 31-QUINZANO D\u0027OGLIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77708",
+        "info":  "VIA A. VOLTA, 15-RENDE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77318",
+        "info":  "VIA V.VENETO, 9-CENE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77240",
+        "info":  "PIAZZA ESCHILO, 67-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77258",
+        "info":  "VIA MOLINO, 9-TORREVECCHIA PIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77241",
+        "info":  "VIA GUIDUBALDO DEL MONTE 13/15-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77319",
+        "info":  "PIAZZA GREGIS, 12-GORLAGO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77306",
+        "info":  "VIA VERDI-CENATE SOTTO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77646",
+        "info":  "VIA PADRE CIPRIANI CARUSO, 4-PIETRAVAIRANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77361",
+        "info":  "VIA FOSSA, 8-VILLA D\u0027ADDA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77550",
+        "info":  "VIA CAMPAGNOL DI TOMBETTA, 30-VERONA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77660",
+        "info":  "VIA GASPERINA 242/244/246/248-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77630",
+        "info":  "VIA VERDI, 11-MONTE SAN GIUSTO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77699",
+        "info":  "VIA DANTE, 78-LIZZANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77661",
+        "info":  "VIA TIBURTINA, 122-123-GUIDONIA MONTECELIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77161",
+        "info":  "VIA VITTORIO VENETO, 4-BEINETTE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77295",
+        "info":  "PIAZZA IV NOVEMBRE, 14-BOLTIERE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77173",
+        "info":  "VIA TOSCANA, 10-CARUGATE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77659",
+        "info":  "VIA BENEDETTO CROCE, 10-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77677",
+        "info":  "VIA CALOPRESE, 51-COSENZA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77228",
+        "info":  "VIA PIAVE, 1-PEVERAGNO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77324",
+        "info":  "VIA LOCATELLI, 8-ARDESIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77735",
+        "info":  "VIA TORRICELLI, 23-25-CAPURSO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77168",
+        "info":  "PIAZZA SAVOIA, 9-BUSCA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77179",
+        "info":  "PIAZZA COTTOLENGO, 42-CORNELIANO D\u0027ALBA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77681",
+        "info":  "VIA ARRINGA, 178-PETILIA POLICASTRO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77732",
+        "info":  "VIA BARI, 27/C-BARI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77685",
+        "info":  "VIA NAZIONALE, 74-80-CROSIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77658",
+        "info":  "VIA NAZIONALE, 183 C/D-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77188",
+        "info":  "VIA C. ROLANDO, 123-GENOVA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77331",
+        "info":  "VIA IV NOVEMBRE, 13-PALADINA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77172",
+        "info":  "VIA GALILEO GALILEI, 32-CARRARA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77549",
+        "info":  "VIALE EUROPA, 13-GREZZANA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77226",
+        "info":  "PIAZZALE GAFFURIO, 9-PAVIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77034",
+        "info":  "PIAZZA D\u0027ACQUISTO, 8-MACERATA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77225",
+        "info":  "VIA PAVESI, 2-PAVIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77012",
+        "info":  "VIA JESINA, 27/G-CASTELFIDARDO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77207",
+        "info":  "PIAZZA OSPEDALE MAGGIORE, 3-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77048",
+        "info":  "CORSO UMBERTO, 391-MONTESILVANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77134",
+        "info":  "VIA TOSCANA 65 ANG CALABRIA-LIVORNO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77033",
+        "info":  "PIAZZA G. LEOPARDI-LORO PICENO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77170",
+        "info":  "VIA ROMA, 72/76-CANALE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77005",
+        "info":  "PIAZZA MATTEOTTI, 25-CAGLI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77211",
+        "info":  "VIALE STURZO, 33/4-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77180",
+        "info":  "PIAZZA CASTELLO, 1-CORTEMILIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77209",
+        "info":  "VIA SPARTACO, 12-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77199",
+        "info":  "VIA BUONARROTI, 22-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77178",
+        "info":  "VIA MAGENTA, 34-CORNAREDO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77204",
+        "info":  "VIA LA SPEZIA, 1-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77139",
+        "info":  "VIA DI VERMICINO N.568-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77077",
+        "info":  "PIAZZA TEOFRASTO, 18/21-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77090",
+        "info":  "VIA TIZIANO, 15-SENIGALLIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77203",
+        "info":  "PIAZZA GASPARRI, 4-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77166",
+        "info":  "PIAZZA DELL\u0027OLMO, 2-BOVES - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77214",
+        "info":  "VIA GIUSEPPE GARIBALDI, 4-MONFORTE D\u0027ALBA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77002",
+        "info":  "VIA BORGO SANTA CROCE, 1-APPIGNANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77187",
+        "info":  "CORSO C. CAVOUR, 55-GARLASCO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77222",
+        "info":  "VIA DEI MILLE, 7-PAVIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77131",
+        "info":  "PIAZZA ASCOLI N. 5/9-CHIANCIANO TERME - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77196",
+        "info":  "VIA ROMA, 37/38-LERICI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77057",
+        "info":  "CORSO MATTEOTTI, 48-PERGOLA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77169",
+        "info":  "CORSO MARCONI, 240-CAIRO MONTENOTTE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77133",
+        "info":  "VIA MAREMMANA N. 16-VINCI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77365",
+        "info":  "VIA AEROPORTO-ORIO AL SERIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77020",
+        "info":  "VIA DELLE QUERCE, 15-FANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77004",
+        "info":  "VIA PROV.LE FOGLIENSE, 53-SASSOCORVARO AUDITORE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77056",
+        "info":  "VIA MORO, 2-PENNABILLI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77037",
+        "info":  "BORGO PERANZONI, 14/B-MACERATA"
+    },
+    {
+        "bank":  "01",
+        "ou":  "77010",
+        "info":  "VIA FLAMINIA, 219-CARTOCETO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77260",
+        "info":  "PIAZZA SAN GOTTARDO, 14-TREZZANO ROSA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77074",
+        "info":  "VIA ROMA, 52-POLLENZA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77145",
+        "info":  "VIA ISTONIA, 85/A-CUPELLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77785",
+        "info":  "C.SO UMBERTO I, 8-PETRIOLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77155",
+        "info":  "VIA ROMA, 367-MONTORO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77239",
+        "info":  "VIA DE VITI DE MARCO, 48/C-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77078",
+        "info":  "VIA TOR CERVARA-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77157",
+        "info":  "CORSO GIUSEPPE MAZZINI, 189-ALBISOLA SUPERIORE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77079",
+        "info":  "VIA PERONI, 2/4 C/O TECNOPOLO-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77127",
+        "info":  "VIA MATTEOTTI N. 44-SIGILLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77264",
+        "info":  "CORSO GENOVA, 95-VIGEVANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77138",
+        "info":  "VIA DON R. AGUZZI N.83/85-MONTE SAN SAVINO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77122",
+        "info":  "VIA DELL\u0027ARDENZA N.152/154-LIVORNO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77104",
+        "info":  "PIAZZA 8 MARZO 1944 N. 2-CAPRAIA E LIMITE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77777",
+        "info":  "VIA DELLE ROSE, 3-FRATTE ROSA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77797",
+        "info":  "CORSO UMBERTO, 60-CELENZA SUL TRIGNO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77105",
+        "info":  "VIA MONTE FALCO N. 3/7-AREZZO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77142",
+        "info":  "P.ZZA PIER VETTORI N.6/R/11/12-FIRENZE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77781",
+        "info":  "VIA ROMA, 395-MACERATA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77147",
+        "info":  "VIA NAZIONALE, 13-FARA SAN MARTINO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77109",
+        "info":  "VIA TRENTO E TRIESTE N. 161-AREZZO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77165",
+        "info":  "CORSO DELLAVALLE, 29-BOSSOLASCO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77110",
+        "info":  "VIA REDIPUGLIA-LASTRA A SIGNA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77113",
+        "info":  "S.S. 71 UMBRO-CASENTINESE, 201-AREZZO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77080",
+        "info":  "VIA DA CELANO, 80/82/84-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77123",
+        "info":  "VIA ARNO, 50 BIS-PERUGIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77058",
+        "info":  "VIA DELL\u0027ACACIA, 2-PERUGIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77132",
+        "info":  "VIALE GRAMSCI N. 284-PIANCASTAGNAIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77789",
+        "info":  "CORSO LEOPARDI, 107-SERRAVALLE DI CHIENTI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77800",
+        "info":  "VIA ABRUZZO, 3-SCHIAVI DI ABRUZZO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77783",
+        "info":  "VIA CRIVELLI, 14-MONTECOSARO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77776",
+        "info":  "VIA UMBERTO I-FRANCAVILLA D\u0027ETE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77128",
+        "info":  "VIA DELLA RESISTENZA N.160-MONTEPULCIANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77787",
+        "info":  "VIA DE GASPERI, 2-TERRE ROVERESCHE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78042",
+        "info":  "VIA DON PECCEDI, 11-BORMIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77083",
+        "info":  "VIALE UMBERTO I, 87-SAN LEO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78034",
+        "info":  "VIA DELLA PESCARA N.33/35-PERUGIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77825",
+        "info":  "VIA CORRADO IV N.90/98-L\u0027AQUILA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77798",
+        "info":  "VIA MAIELLA, 8-RAPINO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77816",
+        "info":  "VIA CADORNA, 18-COSTA MASNAGA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77827",
+        "info":  "VIA G. B. GRASSI, 89-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77801",
+        "info":  "CORSO UMBERTO I, 22-TORRICELLA PELIGNA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77849",
+        "info":  "PIAZZA ARCANGELI, 9-TREIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78043",
+        "info":  "CORSO INDIPENDENZA, 6-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78036",
+        "info":  "CORSO VITTORIO EMANUELE N.53-FROSOLONE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77856",
+        "info":  "VIA ROMA, 70-MIGLIANICO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77159",
+        "info":  "VIALE MILANOFIORI-ASSAGO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77129",
+        "info":  "VIA CAVOUR N. 261-SIENA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78041",
+        "info":  "VIA G. DI VITTORIO, 17-DESENZANO DEL GARDA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77834",
+        "info":  "VIA NAZARIO SAURO, 17-AGUGLIANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77826",
+        "info":  "VIALE G.M.GIULIETTI, 10-CASTEGGIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78044",
+        "info":  "CORSO XXII MARZO, 22-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77812",
+        "info":  "VIA ITALIA, 8-12-14-CALCO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77840",
+        "info":  "VIA MARTIRI D\u0027UNGHERIA, 9-MERCATELLO SUL METAURO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77833",
+        "info":  "VIA ADA NATALI, 5-MASSA FERMANA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77858",
+        "info":  "VIA ROMA-ROCCASPINALVETI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77841",
+        "info":  "P.ZZA UMBERTO I, 29-MONTE SAN PIETRANGELI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77164",
+        "info":  "VIA ANGELO GRILLI, 15-BORZONASCA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77855",
+        "info":  "LARGO OLIVIERI, 4-SAN VITO CHIETINO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77167",
+        "info":  "PIAZZA V. VENETO, 52-BRONI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78047",
+        "info":  "VIA ERCOLANI, 4E-BOLOGNA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77865",
+        "info":  "VIA CAPITAN GANDOLFO, 138-MEZZANEGO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77866",
+        "info":  "VIA RAZZETTI, 11-SANTO STEFANO D\u0027AVETO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78059",
+        "info":  "VIA MEDA, 12-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77882",
+        "info":  "VIA PELLINI, 1-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77206",
+        "info":  "VIA FRANCESCO SFORZA, 28-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78072",
+        "info":  "VIA EMILIA ALL\u0027ANGELO-REGGIO NELL\u0027EMILIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77198",
+        "info":  "VIA PELLEGRINO ROSSI,26-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77887",
+        "info":  "PIAZZA C. GIUSTA, 1-SALICETO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78060",
+        "info":  "VIA MONTE DI PIETA, 5/7/9-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78048",
+        "info":  "CORSO DANTE ALIGHIERI, 36-CHIAVARI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77857",
+        "info":  "VIA NAZIONALE, 26-ARCHI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77892",
+        "info":  "VIA VITTORIO EMANUELE II, 22-SAMPEYRE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77219",
+        "info":  "PIAZZA DELLA LIBERTA\u0027, 2-NEIVE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77888",
+        "info":  "VIA ROMA, 4-ROSASCO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77890",
+        "info":  "VIA VITTORIO  VENETO, 75-PONTE DELL\u0027OLIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78076",
+        "info":  "VIA CIPRO, 4-A/B/C/D-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78051",
+        "info":  "VIA SESTRI, 188/190-GENOVA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77242",
+        "info":  "VIA SESTIO CALVINO, 57-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78065",
+        "info":  "VIA CIRO MENOTTI, 21-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78068",
+        "info":  "VIA EMILIA EST, 17-PARMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77231",
+        "info":  "VIA ROMA,  31-POZZOLO FORMIGARO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77232",
+        "info":  "VIA UMBERTO I, 65-PRIOCCA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77900",
+        "info":  "VIA CADUTI MURELLESI, 39-MURELLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77229",
+        "info":  "PIAZZA M.RI D.LA LIBERAZIONE 7-PIASCO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77897",
+        "info":  "PIAZZA VITTORIO EMANUELE II, 9-GOVONE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78069",
+        "info":  "VIA SAVOIA - ANG. VIA TRIESTE-PINEROLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77266",
+        "info":  "VIA VITTORIO VENETO, 24-VILLAFALLETTO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77233",
+        "info":  "VIA SALUZZO 80-REVELLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77902",
+        "info":  "VIA PO, 41-PAESANA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78073",
+        "info":  "VIA TIBURTINA, 604-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77899",
+        "info":  "VIA TORINO, 73/BIS-MORETTA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78070",
+        "info":  "VIA DONATORI DEL SANGUE, 11 B-SOMMARIVA DEL BOSCO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77895",
+        "info":  "VIA CARBONE, 69-VILLALVERNIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77923",
+        "info":  "CORSO CADUTI IN GUERRA, 13-VALDIERI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77267",
+        "info":  "VIA ROMA, 33/A-VILLANOVA MONDOVI\u0027 - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77244",
+        "info":  "VIA ROMA, 23-SAN MARTINO SICCOMARIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77236",
+        "info":  "PIAZZA BIAGIONI, 27-ROCCAVIONE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77908",
+        "info":  "PIAZZA M.RI DELLA LIBERTA\u0027, 13-VERZUOLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77905",
+        "info":  "VIA NORCIA, 1/3-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77906",
+        "info":  "VIA VITTORIO VENETO, 94-COSTIGLIOLE SALUZZO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77213",
+        "info":  "VIA ROMA, 4-MONESIGLIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77392",
+        "info":  "VIA MANZONI, 20-CASTIONE DELLA PRESOLANA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78082",
+        "info":  "VIA DEL TORCHIO, 4-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78064",
+        "info":  "VIA BIONDI, 1-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77175",
+        "info":  "VIA VITTORIO EMANUELE II, 34-CHERASCO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77249",
+        "info":  "CORSO PIAVE, 82-SANTO STEFANO BELBO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77271",
+        "info":  "VIALE CIRO MENOTTI, 118-MODENA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77269",
+        "info":  "VIA GIACOMO MATTEOTTI, 33-VOGHERA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77909",
+        "info":  "PIAZZA CAD. E COMB.D\u0027ITALIA, 1-TRAVACO\u0027 SICCOMARIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78084",
+        "info":  "VIA LOCATELLI, 45-TRESCORE BALNEARIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78078",
+        "info":  "VIALE DELLE TERME, 44-GODIASCO SALICE TERME - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78088",
+        "info":  "VIA FOPPA, 26-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77918",
+        "info":  "VIA CARLETTO MICHELIS, 3-TARANTASCA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77245",
+        "info":  "VIA NIELLI, 15/A-SAN MICHELE MONDOVI\u0027 - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77399",
+        "info":  "VIA TITO SPERI, 1-SAN ZENO NAVIGLIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77910",
+        "info":  "VIA DI GARIBOGGIO, 43-VICOFORTE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77251",
+        "info":  "VIA FOSSATI, 2/A-STAZZANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77305",
+        "info":  "PIAZZETTA DEL DONATORE, 5-GORLE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77413",
+        "info":  "PIAZZA VITTORIO VENETO, 8-BERGAMO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77911",
+        "info":  "VIA ROMA, 52-GRAGNANO TREBBIENSE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77925",
+        "info":  "PIAZZA SAN  GIOVANNI, 7-FARIGLIANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77389",
+        "info":  "PIAZZA IV NOVEMBRE, 14A-AZZANO SAN PAOLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78080",
+        "info":  "PIAZZA EUROPA, 1-CUNEO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77904",
+        "info":  "PIAZZA DE L\u0027ALA, 4-VERNANTE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77901",
+        "info":  "VIALE RESISTENZA, 7/A-RUBIERA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77927",
+        "info":  "VIA DELLA COMMENDA, 12-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78086",
+        "info":  "VIALE  ITALIA, 24-SERIATE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78110",
+        "info":  "VIA POLETTI, 28-RIMINI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78083",
+        "info":  "VIA REPUBBLICA, 32-PARMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77869",
+        "info":  "VIA PACE, 2-NARZOLE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77316",
+        "info":  "VIA PONTESECCO, 32-PONTERANICA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77913",
+        "info":  "VIA CIRCONVALLAZIONE, 12-CASTIGLIONE TINELLA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78079",
+        "info":  "VIA TEOBALDO CALISSANO, 9-ALBA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77926",
+        "info":  "VIA L. BRUNO, 6-MURAZZANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77497",
+        "info":  "VIA ROMA, 26/28-CEDEGOLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78093",
+        "info":  "VIA MARCONI, 3-ALMENNO SAN SALVATORE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78085",
+        "info":  "VIA A.SALA, 11-TREZZO SULL\u0027ADDA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77569",
+        "info":  "VIALE STAZIONE, 16-CAPO DI PONTE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78100",
+        "info":  "VIA G. MARCONI, 18-DESENZANO DEL GARDA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77502",
+        "info":  "VIA G. MARCONI, 36/A-EDOLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77949",
+        "info":  "VIA TOLOMEO, 1-CORNAREDO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77533",
+        "info":  "VIA PERLASCA, 5/7/9-VESTONE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77530",
+        "info":  "VIA STATALE TOSCOLANO, 114/A-TOSCOLANO-MADERNO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78106",
+        "info":  "VIA CARDUCCI, 73-MACERATA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78107",
+        "info":  "VIA VITTORIO VENETO, 28-LANCIANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77639",
+        "info":  "VIA P.SORIANO,3-PERUGIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77338",
+        "info":  "VIA XXV APRILE, 77-BESOZZO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78108",
+        "info":  "CORSO COLOMBO, 56-ANCONA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77585",
+        "info":  "VIA CIMA CADI, 5/7/9-PONTE DI LEGNO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77591",
+        "info":  "VIA TIBERINA, 64-TODI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78114",
+        "info":  "VIA DANTE ALIGHIERI,25-ISERNIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77600",
+        "info":  "VIA BRECCE BIANCHE 68/1-ANCONA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77620",
+        "info":  "VIA GARIBALDI, 6-NOVAFELTRIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78109",
+        "info":  "VIA ROMA, 73-SAN SALVO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77605",
+        "info":  "VIA RISORGIMENTO, 68-SANTA MARIA NUOVA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77619",
+        "info":  "CORSO ROMA, 79-LUNANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77983",
+        "info":  "VIA REGINA ELENA N. 35/B,35/C-MARCELLINA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77981",
+        "info":  "VIA ROMA, 12-SAN POLO DEI CAVALIERI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77631",
+        "info":  "PIAZZA MATTEOTTI, 19-POTENZA PICENA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77971",
+        "info":  "PIAZZALE DEGLI EROI,4-MARINO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78116",
+        "info":  "VIA MICHELANGELO, 2-PESCARA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77985",
+        "info":  "PIAZZA GARIBALDI, 21-SANT\u0027AGATA FELTRIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78120",
+        "info":  "VIA FLAMINIA,175-RIMINI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78115",
+        "info":  "VIA ROMA, 83-BASTIA UMBRA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77753",
+        "info":  "VIA PARCO RIMEMBRANZE, 30-VEGLIE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77030",
+        "info":  "PIAZZA SAN FRANCESCO, 73-JESI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78121",
+        "info":  "CORSO AMATUZIO, 64/66-BOJANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78016",
+        "info":  "VIA RISORGIMENTO, 9-SASSOFELTRIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78132",
+        "info":  "C.SO VITT.EMANUELE II 83/85/87-ALTAMURA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77994",
+        "info":  "VIA DONNA OLIMPIA, 126-132-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77035",
+        "info":  "C.SO CAVOUR, 35-MACERATA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77024",
+        "info":  "VIA DEL MARE, 1-FRONTONE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77028",
+        "info":  "CORSO MATTEOTTI, 8-JESI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77989",
+        "info":  "VIA DERUTA-PERUGIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78014",
+        "info":  "VIA NAZIONALE, 65-VEZZA D\u0027OGLIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77017",
+        "info":  "VIA SARAGAT, SNC-CIVITANOVA MARCHE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77991",
+        "info":  "VIA V. COSTA, 12-SAN FELE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77031",
+        "info":  "CORSO FEDERICO II-L\u0027AQUILA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77039",
+        "info":  "VIA ROMA, 38-MERCATINO CONCA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77657",
+        "info":  "PIAZZA DELL MARINA N.7-7/1-8-PESCARA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78006",
+        "info":  "VIA DON COMBONI, 24-LIMONE SUL GARDA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77049",
+        "info":  "VIA CLEMENTINA, 14-MUCCIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77086",
+        "info":  "PIAZZA MAR DEL PLATA, 6-SANT\u0027ANGELO IN VADO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77068",
+        "info":  "VIALE PINDARO, 89-PESCARA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78015",
+        "info":  "VIA ROMA, 44-CEVO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77041",
+        "info":  "VIA MADRE STREITEL, 1-MONDAVIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77040",
+        "info":  "VIA XX SETTEMBRE, 53-MOGLIANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77075",
+        "info":  "CORSO PERSIANI, 31-RECANATI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77043",
+        "info":  "VIA XX SETTEMBRE, 82-MONTAPPONE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77143",
+        "info":  "CORSO PIERANTONI, 46-BUCCHIANICO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77089",
+        "info":  "P.ZZA CAMERANESI, 13-SENIGALLIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77084",
+        "info":  "P.ZZA UMBERTO I, 25-SAN LORENZO IN CAMPO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77042",
+        "info":  "VIA VENETO, 4-MONSANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77760",
+        "info":  "VIA TIZIANO-ANCONA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77775",
+        "info":  "VIA ROMA-FIASTRA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77852",
+        "info":  "VIA DELLA LIBERTA\u0027 17-VINCI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78038",
+        "info":  "LARGO SAN NICOLA, 1-CASOLI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77151",
+        "info":  "VIA ROMA, 80-TOLLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77860",
+        "info":  "VIA C. CAVOUR, 25-BIBIANA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77148",
+        "info":  "PIAZZA ALCIDE DE GASPERI, 113-GISSI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77130",
+        "info":  "VIA CELLINI, 10 ANG VIA DUPRE\u0027-EMPOLI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77772",
+        "info":  "VIA DUCA D\u0027AOSTA, 1-CIVITANOVA MARCHE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78032",
+        "info":  "VIA DELLA LIBERTA\u0027, 33/A-ORTONA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77759",
+        "info":  "PIAZZALE VIRGILLITO-SERRA SANT\u0027ABBONDIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78040",
+        "info":  "VIA MARINA, 10-FOSSACESIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77076",
+        "info":  "VIALE UMBERTO I, 1-TRECASTELLI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77144",
+        "info":  "VIA NAZIONALE FRENTANA, 51-CASTEL FRENTANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77120",
+        "info":  "VIA SAURO ANGOLO VIA PARINI-GROSSETO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77795",
+        "info":  "VIA DELLA LIBERAZIONE, 11-ARI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77796",
+        "info":  "VIA SALETTI, 2-ATESSA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77807",
+        "info":  "VIA ROMA, 62-LIMONE PIEMONTE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77149",
+        "info":  "PIAZZA MAZZINI, 54-ORSOGNA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77146",
+        "info":  "PIAZZA MUNICIPIO-FARA FILIORUM PETRI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77106",
+        "info":  "VIA DANTE N.14/22-CAPOLONA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77091",
+        "info":  "VIA ROSSA, 20-TREIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78280",
+        "info":  "VIA ROMA, 13/B-CUNEO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77771",
+        "info":  "C.SO MARCONI, 2/4/6-CASTELLEONE DI SUASA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77872",
+        "info":  "PIAZZA M.RI DELLA LIBERTA\u0027, 2-MONTICELLO D\u0027ALBA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77126",
+        "info":  "VIA DEL CHIASCIO, 114-GUBBIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77121",
+        "info":  "CORSO SALLUSTIO N.107/A-PIZZOLI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77153",
+        "info":  "VIALE DELLA VITTORIA-VILLA SANTA MARIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77150",
+        "info":  "VIA CAVOUR (PAL.MARCHESALE)-PALMOLI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77136",
+        "info":  "VIA BREGNO, 37/43-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77160",
+        "info":  "VIA CAV.DI VITTORIO VENETO, 12-BAGNOLO PIEMONTE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77016",
+        "info":  "VIA EINAUDI, 210-CIVITANOVA MARCHE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77107",
+        "info":  "VIA PIAVE, 5-MARCIANO DELLA CHIANA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77806",
+        "info":  "VIA CINQUE MAGGIO, 101/R-GENOVA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77873",
+        "info":  "VIA A. CARLE, 2-CUNEO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77859",
+        "info":  "VIALE GIUSEPPE MAZZINI, 1-BARGE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77810",
+        "info":  "CORSO CANALE, 98/1-ALBA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77152",
+        "info":  "PIAZZA DONATO IEZZI, 9/10-TORINO DI SANGRO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77818",
+        "info":  "PIAZZA REPUBBLICA, 2-BERGAMO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77809",
+        "info":  "PIAZZA XX SETTEMBRE, 6-MANGO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77853",
+        "info":  "VIA GALEOTTI N.31-PESCIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77808",
+        "info":  "VIA LANGHE, 148-MAGLIANO ALPI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77195",
+        "info":  "VIA TOSELLI, 74-LEGNANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78057",
+        "info":  "L.GO GELSOMINI, 12-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77185",
+        "info":  "VIA G. GARIBALDI, 180-ALBA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77181",
+        "info":  "VIA DELLA BATTAGLIA, 15-CUNEO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77186",
+        "info":  "CORSO STATUTO, 15-GARESSIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77182",
+        "info":  "VIA ROMA, 13/B-CUNEO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77201",
+        "info":  "CORSO ITALIA, 20-22-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77210",
+        "info":  "VIA ANTONIO ROSMINI, 17-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77880",
+        "info":  "VIA DEL CANALETTO, 307-309-311-LA SPEZIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77877",
+        "info":  "VIA UMBERTO I, 28-LA MORRA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78054",
+        "info":  "VIA FABIO FILZI, 23-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78046",
+        "info":  "VIALE GIOVANNI VICO, 5-ALBA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77874",
+        "info":  "VIA ROMA, 11-VINADIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77878",
+        "info":  "VIA ROMA, 3-BAGNASCO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77192",
+        "info":  "VIA CHIODO, 115-LA SPEZIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77183",
+        "info":  "VIA M. E C. PER LA LIBERTA\u0027 1-DEMONTE - Tel."
+    },
+    {
+        "bank":  "24",
+        "ou":  "04054",
+        "info":  "VIA G.GALILEI, 2-LA SPEZIA - Tel. 018725831"
+    },
+    {
+        "bank":  "01",
+        "ou":  "78062",
+        "info":  "VIA BOCCHETTO, 13/15-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77200",
+        "info":  "VIALE CERTOSA, 218-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77184",
+        "info":  "PIAZZA SAN SEBASTIANO, 7-DRONERO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78055",
+        "info":  "VIA PRIV.GIUSEPPE SACCONI, 1-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77216",
+        "info":  "PIAZZA CARLO BARBIERI CIRO, 1-MONTEBELLO DELLA BATTAGLIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77885",
+        "info":  "VIA CASTELVETRO, 32-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77202",
+        "info":  "PIAZZA S.FRANCESCA ROMANA, 3-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77898",
+        "info":  "VIA IV NOVEMBRE, 54/A-MAGLIANO ALFIERI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77891",
+        "info":  "VIA ROMA, 11-BROSSASCO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77453",
+        "info":  "VIA MAGENTA, 2-COMO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77893",
+        "info":  "PIAZZA CASTELVECCHIO, 17-BRICHERASIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77928",
+        "info":  "VIA GUGLIELMO MARCONI, 6-CASTELLETTO STURA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78067",
+        "info":  "VIA REPUBBLICA, 80-NOVATE MILANESE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77429",
+        "info":  "VIA DI PORTA CASTELLO-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77924",
+        "info":  "VIA DELLA RESISTENZA, 5-ENTRACQUE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77292",
+        "info":  "VIA DUCA D\u0027AOSTA,20/A-PARRE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77876",
+        "info":  "VIA ROMA, 53-BAROLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77907",
+        "info":  "VIA ROMA, 30-LAGNASCO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77208",
+        "info":  "VIA PIO II, 3-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77420",
+        "info":  "PIAZZA MANZONI-PALOSCO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77289",
+        "info":  "VIA COCLINO, 8/C-CALCINATE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78091",
+        "info":  "VIA VAL MAIRA,121/123-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78090",
+        "info":  "VIA DEI CROCIFERI, 44-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77217",
+        "info":  "VIA GUGLIELMO  MARCONI, 78-MOROZZO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78066",
+        "info":  "VIA GIORGIO  WASHINGTON, 96-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77293",
+        "info":  "VIA CAVOUR, 2-OSIO SOTTO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77268",
+        "info":  "VIA VILLORESI, 67-VITTUONE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77929",
+        "info":  "PIAZZA GUGLIELMO MARCONI, 1-FRABOSA SOPRANA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77492",
+        "info":  "VIA STRA\u0027, 114-114/A-CALDIERO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77417",
+        "info":  "VIA DON MINZONI-CARNATE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77431",
+        "info":  "VIA VITTOR PISANI, 2-MONZA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77359",
+        "info":  "VIA PAPA  GIOVANNI XXIII, 44-MADONE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77360",
+        "info":  "VIA ROMA, 12-TAVERNOLA BERGAMASCA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77451",
+        "info":  "VIA AL LAGO, 2-COMERIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78087",
+        "info":  "VIA SS SPLUGA, 43-CERNUSCO LOMBARDONE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77411",
+        "info":  "VIA MARCONI ANG. VIA PIAVE-BAGNATICA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77432",
+        "info":  "VIA DON DAVIDE CANALI, 33/35-BULCIAGO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78061",
+        "info":  "VIA PISANELLO, 2-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78094",
+        "info":  "VIA CATTANEO, 3-COMO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77438",
+        "info":  "VIA CIRCONVALLAZIONE, 12-CORNATE D\u0027ADDA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77452",
+        "info":  "VIA LUINESE, 1-CUNARDO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78097",
+        "info":  "VIA GALVANI, 6-VERONA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77374",
+        "info":  "VIA DANTE ALIGHIERI-SPIRANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77484",
+        "info":  "VIA MASACCIO, 29-BRESCIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77501",
+        "info":  "PIAZZA V.EMANUELE, 48-LODI VECCHIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77467",
+        "info":  "VIA CADUTI DEL LAVORO, 56/A-CASTEL MELLA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77205",
+        "info":  "VIA DEI MISSAGLIA-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77442",
+        "info":  "VIA PRINETTI, 39/45-BERNAREGGIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77393",
+        "info":  "VIA MONTE ROSA SN-SELVINO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77433",
+        "info":  "VIA IV NOVEMBRE, 116/118-GIUSSANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77447",
+        "info":  "VIA MAZZINI, 28-BISUSCHIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77941",
+        "info":  "VIA A. MATTAVELLI-SULBIATE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77939",
+        "info":  "VIA VERDI, 2-ZANDOBBIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77457",
+        "info":  "STRADA STATALE 233, 27-MARCHIROLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78096",
+        "info":  "PIAZZA GUGLIELMO MARCONI, 7-MANTOVA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77491",
+        "info":  "VIA DI VITTORIO, 35-BAGNOLO SAN VITO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77494",
+        "info":  "PIAZZA ROMA, 11-LOGRATO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77498",
+        "info":  "VIA MAC MAHON, 19-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77456",
+        "info":  "VIA BERNARDONI, 9-LEGGIUNO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77938",
+        "info":  "PIAZZA MORO, 18-ENTRATICO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77940",
+        "info":  "PIAZZA ALDO MORO-GREZZAGO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77493",
+        "info":  "VIA AURELIA, 701 - 709-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78098",
+        "info":  "VIA DELLA PACE, 58-VILLAFRANCA DI VERONA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77546",
+        "info":  "VIA CITTA\u0027 DI NIMES, 4/8-VERONA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "09201",
+        "info":  "VIA VERONA, 8-A-BUSSOLENGO - Tel. 0456700377"
+    },
+    {
+        "bank":  "01",
+        "ou":  "77511",
+        "info":  "VIA COLOMBARE-SIRMIONE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77937",
+        "info":  "VIA GIOVANNI XXIII, 16-CENATE SOPRA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77499",
+        "info":  "VIA VITTORIO VENETO, 20-OSTIGLIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77485",
+        "info":  "VIA LAMARMORA, 230-BRESCIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77514",
+        "info":  "VIA MORARI, 26-CAPRIANO DEL COLLE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77537",
+        "info":  "VIA XXV APRILE, 110-FLERO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77540",
+        "info":  "VIA EUROPA, 8-CONCESIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78005",
+        "info":  "VIA TRENTO, 60-IDRO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77543",
+        "info":  "VIA SAFFI, 6/5 ANG. VIA MONTI-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77999",
+        "info":  "VIA SAN GIORGIO, 66-BAGOLINO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77966",
+        "info":  "VIA PIERIA, 91/D-PRATO CARNICO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78126",
+        "info":  "VIA SANTA MARGHERITA, 32 - 34-SALERNO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77237",
+        "info":  "VIA CERVETERI, 18-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78011",
+        "info":  "VIA FERRARI, 66/D-MARMIROLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77644",
+        "info":  "VIA G. PAPINI, 2-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78122",
+        "info":  "C.SO VITTORIO EMANUELE III 148-VIBO VALENTIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77517",
+        "info":  "PIAZZA ROMA, 36-DELLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78004",
+        "info":  "PIAZZA FELTRINELLI, 26-GARGNANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77559",
+        "info":  "VIALE ITALIA, 9-SAN FELICE DEL BENACO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77997",
+        "info":  "VIA TRIESTE, 44-CAPRIATE SAN GERVASIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77958",
+        "info":  "PIAZZA XXII LUGLIO 1944, 13-SUTRIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77867",
+        "info":  "VIA AGOSTINO DEPRETIS, 84-PINAROLO PO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77676",
+        "info":  "VIALE STAZIONE-TROPEA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77243",
+        "info":  "VIA UGO OJETTI, 398-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78129",
+        "info":  "PIAZZA VITTORIA, 3-MONTALBANO JONICO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78170",
+        "info":  "PIAZZA MATTEOTTI N. 34-SIENA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77506",
+        "info":  "VIA LAERTINA, 35/39-MARTA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77227",
+        "info":  "VIA SAN  PIETRO IN VERZOLO, 4-PAVIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77729",
+        "info":  "VIA XXIV MAGGIO, 119-121-SANT\u0027AGATA DI PUGLIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77674",
+        "info":  "CORSO BIAGIO MIRAGLIA, 115-STRONGOLI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77563",
+        "info":  "VIA GIUSEPPE  MAZZINI, 61-CANEPINA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77831",
+        "info":  "PIAZZA VITTORIO EMANUELE II 10-GRADOLI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78009",
+        "info":  "VIA ROMA, 28-PIEVE DI BONO-PREZZO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77548",
+        "info":  "VIA CAMILLO SABATINI, 165-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77238",
+        "info":  "VIA COLLI PORTUENSI, 298/302-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77705",
+        "info":  "VIA VITTORIA, 52-BIANCO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77712",
+        "info":  "VIA VITTORIO EMANUELE, 77-DIAMANTE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77224",
+        "info":  "VIA TARAMELLI, 20-PAVIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77717",
+        "info":  "VIA SKANDERBEG, 86-LUNGRO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77691",
+        "info":  "VIA SS. MARTIRI, 13-SANT\u0027EGIDIO DEL MONTE ALBINO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77218",
+        "info":  "PIAZZA SILVABELLA, 33-MORTARA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77246",
+        "info":  "VIALE LIBERTA\u0027  3/5-SANNAZZARO DE\u0027 BURGONDI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77725",
+        "info":  "CORSO GARIBALDI, 28-ROSARNO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77694",
+        "info":  "VIA PROVINCIALE DEL CORTICATO-TEGGIANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77508",
+        "info":  "PIAZZA DELLE MIMOSE, 13-MONTALTO DI CASTRO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77557",
+        "info":  "VIA CRESC.CONTE DI SABINA,  23-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77560",
+        "info":  "VIA MONTE SAN VALENTINO-VITERBO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77562",
+        "info":  "PIAZZA B. BUOZZI, 5-BOMARZO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77544",
+        "info":  "VIA VITTORIO OLIVIERI, 1/A-VIGNANELLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78074",
+        "info":  "VIA ALL\u0027AEROPORTO, 14-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78123",
+        "info":  "CORSO UMBERTO, 260/B-BERNALDA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78104",
+        "info":  "VIA SARAGAT-VITERBO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78168",
+        "info":  "CORSO ITALIA N. 18/22-CASTIGLION FIORENTINO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78169",
+        "info":  "VIA DEI FULGIDI N. 9-LIVORNO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "40173",
+        "info":  "VIA ROMA, 49-B-VETRALLA - Tel. 0761477007"
+    },
+    {
+        "bank":  "01",
+        "ou":  "78150",
+        "info":  "P.ZZA DEL DUCA, 4-SENIGALLIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78180",
+        "info":  "VIA MATTEOTTI, 2/4-CASSINA DE\u0027 PECCHI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78227",
+        "info":  "VIA MARCHETTI, 70-SENIGALLIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78276",
+        "info":  "VIA DELL\u0027ACACIA, 2-PERUGIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78187",
+        "info":  "VIA LOMELLINA, 50-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78182",
+        "info":  "VIA TORINO ANG DIV. CUNEENSE-DOGLIANI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78154",
+        "info":  "VIA F.FARUFFINI, 40-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78192",
+        "info":  "PIAZZA VITTORIO VENETO, 31-MONTA\u0027 - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78186",
+        "info":  "VIA TRIVULZIO, 6/8-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78184",
+        "info":  "VIA GARZOLI, 17/19-LAINATE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78183",
+        "info":  "VIA PASTORINO, 118-GENOVA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78171",
+        "info":  "VIA DI CITTA\u0027, 23-SIENA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78173",
+        "info":  "CORSO MATTEOTTI, 133/135-PONTEDERA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78181",
+        "info":  "CORSO GARIBALDI, 20-CORBETTA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78175",
+        "info":  "CORSO ALFONSO LAMARMORA, 29-ALESSANDRIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78191",
+        "info":  "PIAZZA G. MELLANO, 6-MONDOVI\u0027 - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78161",
+        "info":  "LARGO PENTINI N.1/2/3/4-FRASCATI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78178",
+        "info":  "PIAZZA MADRE TERESA, 8-CARAGLIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78189",
+        "info":  "PIAZZALE SUSA, 2-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78174",
+        "info":  "CORSO DI PORTA ROMANA, 131-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78151",
+        "info":  "VIA PIAVE, 55-ANCONA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78167",
+        "info":  "PIAZZA SAIONE N. 4-AREZZO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78155",
+        "info":  "CORSO DI PORTA ROMANA, 57-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78177",
+        "info":  "VIA ROMA, 78-BORGO SAN DALMAZZO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78176",
+        "info":  "VIA XAVIER DE MAISTRE, 8-AOSTA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78179",
+        "info":  "PIAZZA S.FRANCESCO, 10-CASALE MONFERRATO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78193",
+        "info":  "PIAZZA ROMA, 8-RACCONIGI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78190",
+        "info":  "VIA FRIULI, 16-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78149",
+        "info":  "VIA RANCIA-VALFORNACE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78185",
+        "info":  "VIA BORGOGNA, 2/4-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78157",
+        "info":  "VIA MARSALA, 10B-ANCONA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78244",
+        "info":  "CORSO A. DIAZ, 130/1-MERCATO SAN SEVERINO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78165",
+        "info":  "VIA FERMI, 25/27-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78197",
+        "info":  "VIA RISORGIMENTO, 109/A-ZOLA PREDOSA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78188",
+        "info":  "VIA PADOVA, 175-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78162",
+        "info":  "VIA MANZONI N.215/B-PERUGIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78159",
+        "info":  "P.ZZA X AGOSTO 1944, 1-CORINALDO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78158",
+        "info":  "VIA ANGUILLARESE, 99-ANGUILLARA SABAZIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78153",
+        "info":  "VIA GIULIO CESARE-VASTO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78166",
+        "info":  "VIA DELLA PACE-TOLENTINO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78198",
+        "info":  "PIAZZALE ELLERO, 20-MONDOVI\u0027 - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78172",
+        "info":  "VIA M. T. CICERONE N.140/142-FROSINONE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78221",
+        "info":  "VIA VITTORIO VENETO, 108/B-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78200",
+        "info":  "VIA PINETTI, 26-MARTINENGO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78163",
+        "info":  "V.LE CIAMARRA, 218-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78164",
+        "info":  "VIA OXILIA, 19/A-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78201",
+        "info":  "PIAZZA SS.PIETRO/P, 19-PONTE SAN PIETRO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78196",
+        "info":  "VIA TRENTO, 85-STRADELLA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78194",
+        "info":  "VIALE DELLE PROVINCIE, 34/36-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78224",
+        "info":  "VIA GIUSEPPE DI VITTORIO,39-CERVIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78156",
+        "info":  "VIA ROMAGNA, 17-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78226",
+        "info":  "PIAZZA MAGELLANO, 15-MONTEMARCIANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78195",
+        "info":  "VIA TORINO, 38/A-SALUZZO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78222",
+        "info":  "PIAZZA MARINONI, 4-5-TIRANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78199",
+        "info":  "STR.NAZ.DEL TONALE,92-CASAZZA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78257",
+        "info":  "VIA NICOLETTA, 32-CROTONE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78223",
+        "info":  "VIALE CECCARINI,207-RICCIONE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78255",
+        "info":  "VIA MAZZINI, 17-19-CIRO\u0027 MARINA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78260",
+        "info":  "VIA ANTONIO GRAMSCI-SAN GIOVANNI IN FIORE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78270",
+        "info":  "CORSO ROMA, 8/A-NOICATTARO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78249",
+        "info":  "CORSO VITTORIO EMANUELE, 92-GINOSA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78225",
+        "info":  "CORSO ITALIA, 109-SAN GIOVANNI TEATINO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78240",
+        "info":  "VIA NAZIONALE, 101/103-CORIGLIANO-ROSSANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77709",
+        "info":  "PIAZZA DANTE, 8-CHIARAVALLE CENTRALE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78258",
+        "info":  "LARGO PLEBISCITO, 72-LAURIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78204",
+        "info":  "PIAZZA CADUTI, 2-VAPRIO D\u0027ADDA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78207",
+        "info":  "VIA BORGAZZI, 83-MONZA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78205",
+        "info":  "VIA BRODOLINI, 1-NOVA MILANESE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78217",
+        "info":  "VIA TRENTO E TRIESTE, 9-POGGIO RUSCO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78211",
+        "info":  "VIA BATTAGLIA SAN MARTINO, 50-CUVEGLIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78206",
+        "info":  "VIA SAN ROCCO, 44/46-MONZA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78266",
+        "info":  "VIA GIOVANNI D\u0027ERASMO, 12-GRUMO APPULA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78216",
+        "info":  "PIAZZA STRADIVARI, 19-CREMONA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78220",
+        "info":  "VIA IV NOVEMBRE, 140-BORGOSATOLLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78203",
+        "info":  "VIA BELOTTI, 10-PIAZZA BREMBANA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78247",
+        "info":  "VIA NAZARIO SAURO, 17-CATANZARO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78214",
+        "info":  "VIA CEFALONIA, 62-BRESCIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78210",
+        "info":  "PIAZZA V.VENETO, 18/A-CALOLZIOCORTE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78209",
+        "info":  "PIAZZA GARIBALDI, 3-ALZANO LOMBARDO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78243",
+        "info":  "PIAZZA DUOMO, 2-CAVA DE\u0027 TIRRENI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78265",
+        "info":  "C.SO VITTORIO EMANUELE II 30/C-GRAVINA IN PUGLIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78208",
+        "info":  "PIAZZA 5 GIORNATE, 1-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78252",
+        "info":  "VIA E. NOTO, 3-AMANTEA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78248",
+        "info":  "VIA ALTOADIGE ANG VIA BOTTAZZI-CASARANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78219",
+        "info":  "VIA TARQUINIA-TUSCANIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78230",
+        "info":  "VIA LIVORNO, 10 - 16-POTENZA PICENA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78212",
+        "info":  "VIA DANTE ALIGHIERI, 10-ISEO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78229",
+        "info":  "CORSO MATTEOTTI, 1-JESI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78234",
+        "info":  "PIAZZA SANTA CROCE, 15-TIVOLI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78213",
+        "info":  "VIA ISONZO, 3-LATINA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78202",
+        "info":  "PIAZZA DEL DORDO, 5-MAPELLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78215",
+        "info":  "VIA REPUBBLICA ARGENTINA, 90-BRESCIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78228",
+        "info":  "PIAZZA DOMENICO RICCI, 4-5-JESI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78218",
+        "info":  "VIALE MONZA, 139-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78231",
+        "info":  "PIAZZA DELL\u0027UNITA\u0027-TOLENTINO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78236",
+        "info":  "VIALE ITALIA-TEANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78232",
+        "info":  "VIA SANTA MARIA A CUBITO,182-QUALIANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78274",
+        "info":  "VIA CARSO, 10-SAN SEVERO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78235",
+        "info":  "VIA DI VILLA ADRIANA-TIVOLI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78152",
+        "info":  "PIAZZA VESALIO, 5-JESI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78256",
+        "info":  "CORSO MAZZINI ANG. VIA BRENTA-COSENZA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78250",
+        "info":  "PIAZZA SARAGAT, 11-LATERZA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78241",
+        "info":  "VIA CUOMO, 29-SALERNO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78238",
+        "info":  "VIA A. LUTRI, 146-TREBISACCE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78233",
+        "info":  "VIA ROMA,26-GUIDONIA MONTECELIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78246",
+        "info":  "VIA FELICE RUGGIERO, 9-CAMPAGNA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78242",
+        "info":  "CORSO GARIBALDI, 197-BARONISSI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78237",
+        "info":  "PIAZZA RISORGIMENTO, 10-11-12-BENEVENTO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78253",
+        "info":  "VIA G. GROSSI, 71-BELVEDERE MARITTIMO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78245",
+        "info":  "VIA AMENDOLA, 86-EBOLI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78273",
+        "info":  "VIA GIOVANNI BOVIO, 8-FASANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78254",
+        "info":  "CORSO GARIBALDI, 79-83-CASTROVILLARI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78863",
+        "info":  "VIA BOTAREL, 35-LIVIGNO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78271",
+        "info":  "PIAZZA ALDO MORO, 1-POLIGNANO A MARE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78251",
+        "info":  "VIA PADULA, 95-ACRI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78264",
+        "info":  "PIAZZA DELLA NOCE, 14-BITONTO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78261",
+        "info":  "VIA TOMA, 12-BARI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78259",
+        "info":  "VIA GALLIANO - PAL. CUTOLO-RIONERO IN VULTURE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78239",
+        "info":  "VIA C. COLOMBO, 25-LAGONEGRO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78267",
+        "info":  "PIAZZA GARIBALDI, 109-MODUGNO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78262",
+        "info":  "VIA NAPOLI, 53-55-BARI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78272",
+        "info":  "CORSO ALDO MORO-VALENZANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78263",
+        "info":  "PIAZZA GARIBALDI, 49/52-ACQUAVIVA DELLE FONTI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78268",
+        "info":  "PIAZZA DEGLI EROI, 31-MOLA DI BARI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78143",
+        "info":  "VIA MARCONI, 1-MONTEMARCIANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78145",
+        "info":  "PIAZZALE DON MINZONI N.7-MONTEPULCIANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78269",
+        "info":  "LARGO GARIBALDI, 51-NOCI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77919",
+        "info":  "VIA MICHELE COPPINO, 16-CUNEO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78275",
+        "info":  "VIA VITTORIO EMANUELE, 9-MINORI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78019",
+        "info":  "VIALE CERTOSA, 94-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78023",
+        "info":  "VIA QUARENA, 6-BERGAMO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77108",
+        "info":  "P.ZZA FRATELLI BIMBI N.2-BADIA TEDALDA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78281",
+        "info":  "VIA BORGAZZI, 83-MONZA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78442",
+        "info":  "CORSO GARIBALDI, 22-NOCERA INFERIORE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78477",
+        "info":  "CORSO DI PORTA RENO, 44-FERRARA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78529",
+        "info":  "VIA RISMONDO, 2-PAVIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78522",
+        "info":  "PIAZZA MATTEOTTI, 1-SAN BENEDETTO PO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78497",
+        "info":  "VIA A.DE GASPERI, 8-PESCARA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78517",
+        "info":  "VIA DANTE, 37-SERIATE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78423",
+        "info":  "PIAZZA VI DICEMBRE, 6-ENNA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78642",
+        "info":  "PIAZZA G.LONGHI, 14-ROMANO DI LOMBARDIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78451",
+        "info":  "CORSO VITTORIO EMANUELE, 76/80-CASTELLAMMARE DI STABIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78452",
+        "info":  "VIA FIUME, 3-FRATTAMAGGIORE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78505",
+        "info":  "VIA ROMA, 1-C-VALENTANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78518",
+        "info":  "VIA G.VERDI, 3-DALMINE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78587",
+        "info":  "VIA DELL\u0027ARTIGIANATO, 35-B-LIVORNO - Tel."
+    },
+    {
+        "bank":  "24",
+        "ou":  "40021",
+        "info":  "PIAZZA MATTEOTTI N. 34-SIENA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78594",
+        "info":  "VIA ROMA, 3-PORTOGRUARO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78597",
+        "info":  "VIA ROMA, 87-VILLORBA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78498",
+        "info":  "CORSO MARRUCINO, 102-CHIETI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78489",
+        "info":  "VIA SANTA TERESA, 35-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78586",
+        "info":  "VIA MECENATE, 2-AREZZO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78548",
+        "info":  "VIA TORINO, 166-COLLEGNO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78545",
+        "info":  "PIAZZA E.CHANOUX, 38-AOSTA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78559",
+        "info":  "CORSO LAVAGNA, 7/A-CHIAVARI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78547",
+        "info":  "PIAZZA SAN DONATO, 39-PINEROLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "68645",
+        "info":  "VIALE REGINA ELENA, 3-CAMUCIA-CORTONA - Tel. 057563861"
+    },
+    {
+        "bank":  "01",
+        "ou":  "78549",
+        "info":  "CORSO CAVOUR, 18-NOVARA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78404",
+        "info":  "VIA G.VERDI, 2-CAVALLINO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78418",
+        "info":  "VIA RUBINI, 12-BRINDISI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78459",
+        "info":  "VIA C.BATTISTI, 49-CASERTA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78501",
+        "info":  "PIAZZA ROMA, 3-GIULIANOVA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78496",
+        "info":  "CORSO EUROPA, 9-VASTO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78870",
+        "info":  "VIA FABIO MASSIMO, 15/17-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78872",
+        "info":  "VIALE REPUBBLICA, 79-CREMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78873",
+        "info":  "PIAZZA DUOMO, 5-MONZA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78868",
+        "info":  "VIA VERDI, 48-PIACENZA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78871",
+        "info":  "VIA FRATTE DI TRASTEVERE, 41-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78874",
+        "info":  "VIA S.PELLICO, 10-CORNATE D\u0027ADDA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78869",
+        "info":  "VIA FERDINANDO DI SAVOIA, 8-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78279",
+        "info":  "VIA MONTE DI PIETA, 5/7/9-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78300",
+        "info":  "PIAZZA SANTA CROCE, 15-TIVOLI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78284",
+        "info":  "VIA PAGANORA, 2-BRESCIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78293",
+        "info":  "VIA VITTORIO VENETO, 108/B-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78426",
+        "info":  "VIA MARIANO STABILE, 152-PALERMO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78299",
+        "info":  "VIALE MILANOFIORI-ASSAGO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78302",
+        "info":  "VIA MARCHETTI, 70-SENIGALLIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78289",
+        "info":  "VIA TEOBALDO CALISSANO, 9-ALBA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78287",
+        "info":  "VIALE GRAMSCI, 28-URBINO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78512",
+        "info":  "CORSO SEMPIONE, 9-GALLARATE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78441",
+        "info":  "VIA ROMA, 31-GIOIA TAURO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78448",
+        "info":  "PIAZZA B.GRIMALDI, 1-CATANZARO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78439",
+        "info":  "VIA NICOLETTA, 32-CROTONE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78520",
+        "info":  "VIA FRATTINI, 7-MANTOVA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78519",
+        "info":  "PIAZZA GARIBALDI, 2-TREVIGLIO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78515",
+        "info":  "VIA MAZZINI, 139-ALBINO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78282",
+        "info":  "PIAZZA REPUBBLICA, 2-BERGAMO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78017",
+        "info":  "VIA CUSANI, 16-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78298",
+        "info":  "VIA GAETANO SALVEMINI-COSENZA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78283",
+        "info":  "VIA SILVIO PELLICO, 10-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78297",
+        "info":  "VIA ANGRISANI, 38/B-SALERNO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78429",
+        "info":  "PIAZZALE ROSSELLI, SNC-AGRIGENTO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78588",
+        "info":  "PIAZZA GUERRAZZI N. 18-PISA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78290",
+        "info":  "VIA C.R. CECCARDI, 1-13-17-GENOVA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "66265",
+        "info":  "LUNGOMARE TRIESTE, 149-CAMEROTA - Tel. 0974379643"
+    },
+    {
+        "bank":  "01",
+        "ou":  "78295",
+        "info":  "VIA DANTE ALIGHIERI, 10-ISEO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "66361",
+        "info":  "PIAZZA GARIBALDI, 9-GIOVINAZZO - Tel. 0803948254"
+    },
+    {
+        "bank":  "01",
+        "ou":  "66369",
+        "info":  "CORSO MAZZINI, 27-RUTIGLIANO - Tel. 0804768655"
+    },
+    {
+        "bank":  "01",
+        "ou":  "78590",
+        "info":  "CORSO TOSCANA, 46-ARCIDOSSO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78589",
+        "info":  "VIA SENESE, 2/8-GROSSETO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78480",
+        "info":  "CORSO DELLA REPUBBLICA, 14-FORLI\u0027 - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78499",
+        "info":  "VIA COLOMBO, 13-TERAMO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78453",
+        "info":  "VIA XX SETTEMBRE, 52-SAN GIUSEPPE VESUVIANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78445",
+        "info":  "VIA TRESSANTI, 32/34-SALA CONSILINA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78450",
+        "info":  "VIA TOLEDO, 177/178-NAPOLI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78443",
+        "info":  "PIAZZA MARCONI, 25-NOLA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78454",
+        "info":  "VIA G.PORZIO, 4 ISOLA A2-NAPOLI - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78481",
+        "info":  "VIALE A.MORO, 60-BOLOGNA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78483",
+        "info":  "PIAZZA LIBERTA\u0027, 1-BAGNACAVALLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78482",
+        "info":  "VIA L.LUCCHI, 103-CESENA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78468",
+        "info":  "CORSO MAZZINI, 46-SAN BENEDETTO DEL TRONTO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "40185",
+        "info":  "VIA C.A.DALLA CHIESA, 10-MONTEROSI - Tel. 0761699938"
+    },
+    {
+        "bank":  "24",
+        "ou":  "40010",
+        "info":  "VIA SILVIO PELLICO, 10/12-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "40156",
+        "info":  "VIA IV NOVEMBRE, 11/13-B-FONTE NUOVA - Tel. 0690023916"
+    },
+    {
+        "bank":  "24",
+        "ou":  "40015",
+        "info":  "VIA FERDINANDO DI SAVOIA, 8-ROMA - Tel."
+    },
+    {
+        "bank":  "24",
+        "ou":  "40020",
+        "info":  "VIA RIZZOLI, 1/2 INT.5-BOLOGNA - Tel."
+    },
+    {
+        "bank":  "24",
+        "ou":  "40011",
+        "info":  "VIA SILVIO PELLICO, 10/12-MILANO - Tel."
+    },
+    {
+        "bank":  "24",
+        "ou":  "40014",
+        "info":  "CORSO STRADA NUOVA, 61/C-PAVIA - Tel."
+    },
+    {
+        "bank":  "24",
+        "ou":  "40007",
+        "info":  "VIA ROMA, 13/B-CUNEO - Tel."
+    },
+    {
+        "bank":  "24",
+        "ou":  "40008",
+        "info":  "VIA SILVIO PELLICO, 10/12-MILANO - Tel."
+    },
+    {
+        "bank":  "24",
+        "ou":  "40005",
+        "info":  "VIA TRIESTE, 4/6/8-BRESCIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "68535",
+        "info":  "PIAZZALE DEI RIONI, 5-PORTO SANTO STEFANO-MONTE ARGENTARIO - Tel. 056481641"
+    },
+    {
+        "bank":  "01",
+        "ou":  "78148",
+        "info":  "VIA BATTISTI, 15-MORROVALLE - Tel."
+    },
+    {
+        "bank":  "24",
+        "ou":  "40017",
+        "info":  "VIA TEOBALDO CALISSANO, 9-ALBA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "40472",
+        "info":  "P.ZA SAN FRANCESCO DI SALES, 5-CIVITANOVA MARCHE - Tel. 0733783911"
+    },
+    {
+        "bank":  "01",
+        "ou":  "40482",
+        "info":  "PIAZZA UMBERTO I, 1-CASALBORDINO - Tel. 0873921407"
+    },
+    {
+        "bank":  "01",
+        "ou":  "65032",
+        "info":  "PIAZZA GABRIOTTI, 2-PASSIGNANO SUL TRASIMENO - Tel. 075827179"
+    },
+    {
+        "bank":  "01",
+        "ou":  "68543",
+        "info":  "VIA TRENTO, 23-ABBADIA SAN SALVATORE - Tel. 0577775142"
+    },
+    {
+        "bank":  "24",
+        "ou":  "40006",
+        "info":  "CORSO UMBERTO I, 16-CIVITANOVA MARCHE - Tel."
+    },
+    {
+        "bank":  "24",
+        "ou":  "40018",
+        "info":  "PIAZZALE ELLERO, 20-MONDOVI\u0027 - Tel."
+    },
+    {
+        "bank":  "24",
+        "ou":  "40012",
+        "info":  "VIA SANT\u0027AGOSTINO, 24-MODENA - Tel."
+    },
+    {
+        "bank":  "24",
+        "ou":  "40013",
+        "info":  "PIAZZA DUOMO, 5-MONZA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "66120",
+        "info":  "PIAZZA MERCATO, 11-ALVIGNANO - Tel. 0823614097"
+    },
+    {
+        "bank":  "01",
+        "ou":  "40477",
+        "info":  "VIALE C.BATTISTI, SNC-ATESSA - Tel. 0872853045"
+    },
+    {
+        "bank":  "01",
+        "ou":  "68212",
+        "info":  "CORSO GUERCINO, 68-CENTO - Tel. 0516830588"
+    },
+    {
+        "bank":  "01",
+        "ou":  "08143",
+        "info":  "PIAZZA PAPA GIOVANNI XXIII 4/5-PRESEZZO - Tel. 035618659"
+    },
+    {
+        "bank":  "01",
+        "ou":  "07518",
+        "info":  "VIA VITTORIO VENETO, 40-CASSANO D\u0027ADDA - Tel. 0363364611"
+    },
+    {
+        "bank":  "01",
+        "ou":  "66383",
+        "info":  "VIA DIAZ, 2/4-SANNICANDRO DI BARI - Tel. 0809934370"
+    },
+    {
+        "bank":  "01",
+        "ou":  "66368",
+        "info":  "CORSO UMBERTO I, 45/47-ADELFIA - Tel. 0804592466"
+    },
+    {
+        "bank":  "01",
+        "ou":  "66382",
+        "info":  "VIA STAZIONE, 18-TURI - Tel. 0808912823"
+    },
+    {
+        "bank":  "01",
+        "ou":  "66360",
+        "info":  "VIA G.A.PUGLIESE, 200/202-TORITTO - Tel. 080603901"
+    },
+    {
+        "bank":  "01",
+        "ou":  "66077",
+        "info":  "VIA ITALIA, 48-POLISTENA - Tel. 0966941765"
+    },
+    {
+        "bank":  "01",
+        "ou":  "40405",
+        "info":  "PIAZZA DANTE, 22-FOSSOMBRONE - Tel. 0721740157"
+    },
+    {
+        "bank":  "01",
+        "ou":  "50539",
+        "info":  "VIA S.SBRIZZAI, 12-PAULARO - Tel. 043371056"
+    },
+    {
+        "bank":  "01",
+        "ou":  "66424",
+        "info":  "VIA VITTORIO EMANUELE II 13/14-PISTICCI - Tel. 0835581001"
+    },
+    {
+        "bank":  "01",
+        "ou":  "40361",
+        "info":  "CORSO MATTEOTTI, 131-PORTO RECANATI - Tel. 0717592804"
+    },
+    {
+        "bank":  "01",
+        "ou":  "19711",
+        "info":  "VIALE PATRIOTI, 6-PIACENZA - Tel. 0523311311"
+    },
+    {
+        "bank":  "01",
+        "ou":  "68649",
+        "info":  "CORSO VITTORIO EMANUELE, 34-FOIANO DELLA CHIANA - Tel. 0575640432"
+    },
+    {
+        "bank":  "01",
+        "ou":  "40490",
+        "info":  "VIA TRIPIO, 137-GUARDIAGRELE - Tel. 087184630"
+    },
+    {
+        "bank":  "01",
+        "ou":  "68468",
+        "info":  "VIA DON L.STURZO, 14-AREZZO - Tel. 057529751"
+    },
+    {
+        "bank":  "01",
+        "ou":  "68559",
+        "info":  "VIA E.CERRINI, 35-VENTURINA TERME-CAMPIGLIA MARITTIMA - Tel. 0565852013"
+    },
+    {
+        "bank":  "24",
+        "ou":  "40131",
+        "info":  "VIA DEI BANCHI, 5/31R/43R-FIRENZE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78879",
+        "info":  "VIA DANTE, 39-VIGEVANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78878",
+        "info":  "VIA DE AMICIS, 5-VIGEVANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "00001",
+        "info":  "fittizia"
+    },
+    {
+        "bank":  "01",
+        "ou":  "00002",
+        "info":  "fittizia"
+    },
+    {
+        "bank":  "01",
+        "ou":  "00003",
+        "info":  "fittizia"
+    },
+    {
+        "bank":  "01",
+        "ou":  "40455",
+        "info":  "VIA ERCOLE ROSA, 20-SAN SEVERINO MARCHE - Tel. 0733645143"
+    },
+    {
+        "bank":  "01",
+        "ou":  "77197",
+        "info":  "VIA UMBERTO I,  46-MARCIGNAGO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77803",
+        "info":  "VIALE GIOVANNI AGNELLI, 10-ATESSA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77871",
+        "info":  "VIA MASSIMO GORKI, 50-CINISELLO BALSAMO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77889",
+        "info":  "VIA TORINO, 16-BARBARESCO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77896",
+        "info":  "VIA ROMA, 56-CASTELLINALDO D\u0027ALBA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77930",
+        "info":  "VIA ROMA, 8-VIGOLO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77950",
+        "info":  "VIA DEL MULINO, 6-ASSAGO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77879",
+        "info":  "VIALE SAN BARTOLOMEO, 400-LA SPEZIA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77875",
+        "info":  "VIA BORGONUOVO, B/15-1-MONCHIERO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "77884",
+        "info":  "VIA MACEDONIO MELLONI, 52-MILANO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78022",
+        "info":  "PIAZZA LAZZARINI, 4/5-PESARO - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78144",
+        "info":  "VIALE SANTA VITTORIA N.24-FOIANO DELLA CHIANA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78026",
+        "info":  "VIALE REPUBBLICA, 79-CREMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78029",
+        "info":  "VIALE TRASTEVERE, 22-ROMA - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78020",
+        "info":  "CORSO GARIBALDI, 64-FOSSOMBRONE - Tel."
+    },
+    {
+        "bank":  "01",
+        "ou":  "78030",
+        "info":  "VIALE MILANO, 20-VARESE - Tel."
+    }
+]

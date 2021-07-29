@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "SKYPE FOR BUSINESS",
+    "help": null,
+    "hasNotRelevantOption": false
+  },
+  {
+    "id": 2,
+    "name": "SHAREPOINT",
+    "help": null,
+    "hasNotRelevantOption": false
+  },
+  {
+    "id": 3,
+    "name": "INTRANET INTESA SANPAOLO",
+    "help": null,
+    "hasNotRelevantOption": false
+  },
+  {
+    "id": 4,
+    "name": "GESTIONE CONTANTE",
+    "help": "Macchina del cassiere",
+    "hasNotRelevantOption": true
+  },
+  {
+    "id": 5,
+    "name": "STAMPANTE BANCARIA",
+    "help": null,
+    "hasNotRelevantOption": true
+  },
+  {
+    "id": 6,
+    "name": "STAMPANTE LASER",
+    "help": null,
+    "hasNotRelevantOption": false
+  },
+  {
+    "id": 7,
+    "name": "SCANNER",
+    "help": null,
+    "hasNotRelevantOption": true
+  },
+  {
+    "id": 8,
+    "name": "TABLET FIRMA",
+    "help": null,
+    "hasNotRelevantOption": true
+  },
+  {
+    "id": 9,
+    "name": "CODICE A BARRE",
+    "help": null,
+    "hasNotRelevantOption": true
+  },
+  {
+    "id": 10,
+    "name": "EMULATORE 3270",
+    "help": null,
+    "hasNotRelevantOption": false
+  }
+]
