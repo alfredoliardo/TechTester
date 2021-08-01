@@ -3,14 +3,16 @@ using System;
 using Data.EFCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Data.EFCore.Migrations
 {
     [DbContext(typeof(ApplicationContext))]
-    partial class ApplicationContextModelSnapshot : ModelSnapshot
+    [Migration("20210730085622_test_instance_errors")]
+    partial class test_instance_errors
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -159,9 +161,6 @@ namespace Data.EFCore.Migrations
 
                     b.Property<int>("NegativeResponses")
                         .HasColumnType("INTEGER");
-
-                    b.Property<DateTime?>("StartTime")
-                        .HasColumnType("TEXT");
 
                     b.HasKey("TestId", "WorkstationName");
 

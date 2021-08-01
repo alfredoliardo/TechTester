@@ -1,0 +1,20 @@
+<table *ngIf="tests" class="table">
+    <thead>
+        <tr>
+            <th>Group</th>
+            <th>Bank-Ou</th>
+            <th>Address</th>
+            <th>Status</th>
+            <th>Workstations</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let test of tests">
+            <td>{{test.groupName}}</td>
+            <td>{{test.bank}}-{{test.ou}}</td>
+            <td>{{test.info}}</td>
+            <td>{{test.status}}</td>
+            <td>{{test.workstations}}</td>
+        </tr>
+    </tbody>
+</table>

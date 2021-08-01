@@ -38,6 +38,11 @@ namespace Data.EFCore.Seed.Baudelaire
             var testInstances = JsonSerializer.Deserialize<List<TestInstance>>(json, options);
             if (!context.TestInstances.Any(t => t.TestId == test.Id))
             {
+                foreach (var item in testInstances)
+                {
+                    item.StartTime = item.LastUpdateTime;
+                    context.Add(item);
+                }
                 context.TestInstances.AddRange(testInstances);
                 await context.SaveChangesAsync();
             }
@@ -48,7 +53,16 @@ namespace Data.EFCore.Seed.Baudelaire
             var responses = JsonSerializer.Deserialize<List<TestCheckResponse>>(json, options);
             if (!context.TestCheckResponses.Any(t => t.TestId == test.Id))
             {
-                context.TestCheckResponses.AddRange(responses);
+                foreach (var r in responses)
+                {
+                    if(r.Value.HasValue && r.Value.Value == ResponseValue.Negative){
+                        var instance = context.TestInstances.Find(r.TestId, r.WorkstationName);
+                        if(instance != null){
+                            instance.NegativeResponses++;
+                        }
+                    }
+                    context.TestCheckResponses.Add(r);
+                }
                 await context.SaveChangesAsync();
             }
 

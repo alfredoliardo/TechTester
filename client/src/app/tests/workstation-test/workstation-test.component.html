@@ -1,0 +1,40 @@
+<ng-container *ngIf="test">
+    <h2>
+        {{test.testName}}
+    </h2>
+    
+
+    <form [formGroup]="responseForm" (ngSubmit)="onSubmit()">
+        <ul class="list-group">
+            <li class="list-group-item" formArrayName="responses"
+                *ngFor="let r of responses.controls; let i = index">
+                
+                <div [formGroupName]="i" class="d-flex justify-content-between align-items-center">
+                    <h4 class="my-0">{{r.get('checkName')?.value}}</h4>
+                    <div class="justify-content-start">
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" formControlName="value" id="PositiveChoice"
+                                [value]="0">
+                            <label class="form-check-label" for="PositiveChoice">Positivo</label>
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" formControlName="value" id="NegativeChoice"
+                                [value]="1">
+                            <label class="form-check-label" for="NegativeChoice">Negativo</label>
+                        </div>
+                        <div *ngIf="(r.get('hasNeutralOption')?.value.toString() === 'true')" class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" formControlName="value" id="NeutralChoice"
+                                [value]="2">
+                            <label class="form-check-label" for="NeutralChoice">Non Applicabile</label>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+        <div class="my-3 d-flex justify-content-between">
+            <a type="button" class="btn btn-secondary" [routerLink]="['/']">Torna alla Dashboard</a>
+            <button type="submit" class="btn btn-primary">Invia</button>
+        </div>
+    </form>
+    
+</ng-container>

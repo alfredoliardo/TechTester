@@ -1,3 +1,4 @@
+using Core.Interfaces;
 using Data.EFCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -32,6 +33,7 @@ namespace Api
                 options.UseSqlite(Configuration.GetConnectionString("DefaultConnection"));
                 //options.EnableSensitiveDataLogging();
             });
+            services.AddScoped<IDatabase,Database>();
 
             services.AddCors(opt => {
                 
@@ -55,7 +57,7 @@ namespace Api
                 .AllowCredentials();
             });
 
-            app.UseHttpsRedirection();
+            //app.UseHttpsRedirection();
 
             app.UseRouting();
 

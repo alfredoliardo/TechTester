@@ -9,8 +9,10 @@ namespace Core.Entities
         public string WorkstationName { get; set; }
         public int? GroupId { get; set; }
         public bool Damaged {get;set;} = false;
+        public DateTime? StartTime {get;set;}
         public DateTime? LastUpdateTime {get;set;}
         public DateTime? Completed {get;set;}
+        public int NegativeResponses {get;set;} = 0;
 
         public virtual Test Test { get; set; }
         public virtual Group Group {get;set;}

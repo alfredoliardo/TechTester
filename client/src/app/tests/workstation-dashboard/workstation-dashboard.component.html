@@ -1,0 +1,53 @@
+<div class="row">
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-header">
+              Featured
+            </div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">An item</li>
+              <li class="list-group-item">A second item</li>
+              <li class="list-group-item">A third item</li>
+            </ul>
+          </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-header">
+              Featured
+            </div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">An item</li>
+              <li class="list-group-item">A second item</li>
+              <li class="list-group-item">A third item</li>
+            </ul>
+          </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-12">
+        <div class="card my-3">
+            <div class="card-header">
+              Tests
+            </div>
+            <table class="table">
+                <thead>
+                    <th>Name</th>
+                    <th>Stato</th>
+                    <th></th>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let t of tests">
+                        <th>{{t.testName}}</th>
+                        <td>{{t.completed == null?'Non Completato':'Completato'}}</td>
+                        <td>
+                            <a [routerLink]="['..',t.testId,'of',t.name]" type="button" class="btn btn-primary">
+                            Apri
+                            </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+          </div>
+    </div>
+</div>
