@@ -1,20 +1,53 @@
-<table *ngIf="tests" class="table">
-    <thead>
-        <tr>
-            <th>Group</th>
-            <th>Bank-Ou</th>
-            <th>Address</th>
-            <th>Status</th>
-            <th>Workstations</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr *ngFor="let test of tests">
-            <td>{{test.groupName}}</td>
-            <td>{{test.bank}}-{{test.ou}}</td>
-            <td>{{test.info}}</td>
-            <td>{{test.status}}</td>
-            <td>{{test.workstations}}</td>
-        </tr>
-    </tbody>
-</table>
+<div class="card">
+    <div class="card-header">
+        Data
+    </div>
+    <div class="card-body">
+        <table *ngIf="tests" class="table table-sm text-center">
+            <thead>
+                <tr>
+                    <th>Gruppo</th>
+                    <th>Punto Operativo</th>
+                    <th>Stato</th>
+                    <th>Ult. aggiornamento</th>
+                    <th><i class="fa fa-desktop"></i></th>
+                    <th>Non Partite</th>
+                    <th>In corso</th>
+                    <th>Completate</th>
+                    <th>Guaste</th>
+                    <th>Con esiti negativi</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let test of tests.data" 
+                [ngClass]="test.status===0?'table-secondary':(test.status === 1)?'table-info':'table-primary'">
+                    <td>{{test.groupName}}</td>
+                    <td>
+                        <a [routerLink]="['../branch',test.bank,test.ou,'dashboard' ]">{{test.bank}}-{{test.ou}}</a>
+                         <i *ngIf="test.info" [popover]="test.info" class="fa fa-info-circle text-primary" [outsideClick]="true"></i>
+                    </td>
+                    <td><i [ngClass]="test.status===0?'fa fa-stop-circle text-secondary':(test.status === 1)?'fa fa-hourglass-half text-info':'fa fa-check-circle text-primary'"></i></td>
+                    <td>{{test.lastUpdateTime | date}}</td>
+                    <td>{{test.workstations}}</td>
+                    <td>{{test.notStarted}}</td>
+                    <td>{{test.running}}</td>
+                    <td>{{test.completed}}</td>
+                    <td>{{test.damaged}}</td>
+                    <td [ngClass]="test.withNegativeResponses > 0 ? 'bg-danger text-white':''">{{test.withNegativeResponses}}</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        
+    </div>
+    <div class="d-flex justify-content-between card-footer">
+        <form [formGroup]="form">
+            <select (ngModelChange)="sizeChanged()" formControlName="pageSize" class="custom-select" style="max-width: 100px;">
+                <option *ngFor="let s of pageSizeOptions" [ngValue]="s.size">{{s.size}}</option>
+            </select>
+        </form>
+        <pagination [itemsPerPage]="tests.pageSize" [boundaryLinks]="true" [lastText]="'Ultimo'" [firstText]="'Primo'" [nextText]="'>'" [previousText]="'<'" [maxSize]="10" [totalItems]="tests.totalItems" (pageChanged)="pageChanged($event)"></pagination>
+    </div>
+</div>
+
+

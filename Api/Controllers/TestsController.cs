@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.Json;
 using System.Threading.Tasks;
 using Api.Dtos;
 using Core.Entities;
@@ -109,7 +110,7 @@ namespace Api.Controllers
         }
 
         [HttpGet("grouped/{id}")]
-        public async Task<ActionResult<IEnumerable<BranchTestStats>>> GetGroupedTests(Guid id)
+        public async Task<ActionResult<PaginatedResult<BranchTestStats>>> GetGroupedTests(Guid id,[FromQuery] BranchQueryParameters queryParameters)
         {   
             var query = _context.TestInstances
             .AsNoTracking()
@@ -123,11 +124,11 @@ namespace Api.Controllers
                 Bank = s.Key.Bank,
                 OU = s.Key.OU,
                 Info = s.Key.Info,
-                Status = (s.Max(w => w.LastUpdateTime != null)
-                ? BranchTestStatsStatus.Running
+                Status = (s.Max(w => w.LastUpdateTime) == null
+                ? BranchTestStatsStatus.NotStarted
                 : s.Count() == (s.Count(w => w.Completed.HasValue) - s.Count(w => w.Damaged))
                 ? BranchTestStatsStatus.Completed
-                : BranchTestStatsStatus.NotStarted),
+                : BranchTestStatsStatus.Running),
                 LastUpdateTime = s.Max(w => w.LastUpdateTime),
                 Workstations = s.Count(),
                 NotStarted = s.Count(w => w.LastUpdateTime == null),
@@ -137,9 +138,21 @@ namespace Api.Controllers
                 WithNegativeResponses = s.Count(w => w.NegativeResponses > 0)
             });
 
-            
+            var result = new PaginatedResult<BranchTestStats>();
+            result.TotalItems = await grouped.CountAsync();
+            result.CurrentPage = queryParameters.PageNumber;
+            result.PageSize = queryParameters.PageSize;
+            result.TotalPages = result.TotalItems / result.PageSize;
 
-            return Ok(await grouped.ToListAsync());
+            grouped = grouped.OrderBy(test => test.OU)
+            .Skip((queryParameters.PageNumber - 1) * queryParameters.PageSize)
+            .Take(queryParameters.PageSize);
+
+            
+            
+            result.Data = await grouped.ToListAsync();
+
+            return Ok(result);
         }
 
         [HttpGet("{id}/branch")]

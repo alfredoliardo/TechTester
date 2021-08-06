@@ -1,0 +1,12 @@
+/Users/alfredoliardo/Projects/TechTester/Core/obj/Debug/net5.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfredoliardo/Projects/TechTester/Core/obj/Debug/net5.0/Core.AssemblyInfoInputs.cache
+/Users/alfredoliardo/Projects/TechTester/Core/obj/Debug/net5.0/Core.AssemblyInfo.cs
+/Users/alfredoliardo/Projects/TechTester/Core/obj/Debug/net5.0/Core.csproj.CoreCompileInputs.cache
+/Users/alfredoliardo/Projects/TechTester/Core/bin/Debug/net5.0/Core.deps.json
+/Users/alfredoliardo/Projects/TechTester/Core/bin/Debug/net5.0/Core.dll
+/Users/alfredoliardo/Projects/TechTester/Core/bin/Debug/net5.0/ref/Core.dll
+/Users/alfredoliardo/Projects/TechTester/Core/bin/Debug/net5.0/Core.pdb
+/Users/alfredoliardo/Projects/TechTester/Core/obj/Debug/net5.0/Core.dll
+/Users/alfredoliardo/Projects/TechTester/Core/obj/Debug/net5.0/ref/Core.dll
+/Users/alfredoliardo/Projects/TechTester/Core/obj/Debug/net5.0/Core.pdb
+/Users/alfredoliardo/Projects/TechTester/Core/obj/Debug/net5.0/Core.csproj.AssemblyReference.cache

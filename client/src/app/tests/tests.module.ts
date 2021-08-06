@@ -9,6 +9,12 @@ import { TestPlannerComponent } from './test-planner/test-planner.component';
 import { TestBranchDashboardComponent } from './test-branch-dashboard/test-branch-dashboard.component';
 import { WorkstationTestComponent } from './workstation-test/workstation-test.component';
 import { ReactiveFormsModule } from '@angular/forms';
+import { TooltipModule } from 'ngx-bootstrap/tooltip';
+import { PopoverModule } from 'ngx-bootstrap/popover';
+import { PaginationModule } from 'ngx-bootstrap/pagination';
+
+
+
 
 
 @NgModule({
@@ -23,7 +29,10 @@ import { ReactiveFormsModule } from '@angular/forms';
   imports: [
     CommonModule,
     TestsRoutingModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    TooltipModule.forRoot(),
+    PopoverModule.forRoot(),
+    PaginationModule.forRoot()
   ]
 })
 export class TestsModule { }

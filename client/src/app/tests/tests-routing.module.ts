@@ -10,7 +10,7 @@ import { WorkstationTestComponent } from './workstation-test/workstation-test.co
 const routes: Routes = [
   { path: 'dashboard', component: WorkstationDashboardComponent },
   { path: ':testId/dashboard', component: TestDashboardComponent},
-  { path: ':testId/branch/:id/dashboard', component: TestBranchDashboardComponent},
+  { path: ':testId/branch/:bank/:ou/dashboard', component: TestBranchDashboardComponent},
   { path: ':testId/of/:workstation', component: WorkstationTestComponent},
   { path: 'planner', component: TestPlannerComponent},
   { path: '', redirectTo: 'dashboard', pathMatch: 'full'},

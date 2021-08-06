@@ -1,0 +1,15 @@
+/Users/alfredoliardo/Projects/TechTester/Data/bin/Debug/net5.0/Data.deps.json
+/Users/alfredoliardo/Projects/TechTester/Data/bin/Debug/net5.0/Data.dll
+/Users/alfredoliardo/Projects/TechTester/Data/bin/Debug/net5.0/ref/Data.dll
+/Users/alfredoliardo/Projects/TechTester/Data/bin/Debug/net5.0/Data.pdb
+/Users/alfredoliardo/Projects/TechTester/Data/bin/Debug/net5.0/Core.dll
+/Users/alfredoliardo/Projects/TechTester/Data/bin/Debug/net5.0/Core.pdb
+/Users/alfredoliardo/Projects/TechTester/Data/obj/Debug/net5.0/Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfredoliardo/Projects/TechTester/Data/obj/Debug/net5.0/Data.AssemblyInfoInputs.cache
+/Users/alfredoliardo/Projects/TechTester/Data/obj/Debug/net5.0/Data.AssemblyInfo.cs
+/Users/alfredoliardo/Projects/TechTester/Data/obj/Debug/net5.0/Data.csproj.CoreCompileInputs.cache
+/Users/alfredoliardo/Projects/TechTester/Data/obj/Debug/net5.0/Data.csproj.CopyComplete
+/Users/alfredoliardo/Projects/TechTester/Data/obj/Debug/net5.0/Data.dll
+/Users/alfredoliardo/Projects/TechTester/Data/obj/Debug/net5.0/ref/Data.dll
+/Users/alfredoliardo/Projects/TechTester/Data/obj/Debug/net5.0/Data.pdb
+/Users/alfredoliardo/Projects/TechTester/Data/obj/Debug/net5.0/Data.csproj.AssemblyReference.cache
